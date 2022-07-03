@@ -4,6 +4,7 @@
 Simple text editor on Java
   
   Commands:
+  
     New: Ctrl+N
     Open File: Ctrl + O
     Save: Ctrl + S
