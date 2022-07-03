@@ -41,6 +41,10 @@ Simple text editor on Java
 
 ![](img/Find.png)
 
+* Find and Replace:
+
+![](img/)
+
 Future ideas:
 
  * Add syntax highlighter
