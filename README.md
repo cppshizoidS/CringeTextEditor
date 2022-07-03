@@ -9,6 +9,6 @@ Simple text editor on Java
 
 ![](img/text.png)
 
-![](img/version.png)
+![](img/Version.png)
 
 ![](https://img.shields.io/tokei/lines/github/cppshizoidS/CringeTextEditor)
