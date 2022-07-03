@@ -12,7 +12,8 @@ Simple text editor on Java
 * Save:
 
 ![](img/save.png)
-*
+* Text Edit:
+
 ![](img/text.png)
 * Version:
 
