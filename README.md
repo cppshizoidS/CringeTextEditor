@@ -14,6 +14,7 @@ Simple text editor on Java
 ![](img/Version.png)
 
 Future ideas:
-*Add syntax highlighter
+
+ * Add syntax highlighter
 ---
 ![](https://img.shields.io/tokei/lines/github/cppshizoidS/CringeTextEditor)
