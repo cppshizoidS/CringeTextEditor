@@ -1,4 +1,4 @@
-# CringeTxtEditor
+# CringeTextEditor
 ---
 
 Simple text editor on Java
