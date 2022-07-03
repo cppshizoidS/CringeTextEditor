@@ -1,4 +1,6 @@
 # CringeTxtEditor
+---
+
 Simple text editor on Java
 
 ![](img/edit_menu.png)
@@ -11,4 +13,7 @@ Simple text editor on Java
 
 ![](img/Version.png)
 
+Future ideas:
+*Add syntax highlighter
+---
 ![](https://img.shields.io/tokei/lines/github/cppshizoidS/CringeTextEditor)
