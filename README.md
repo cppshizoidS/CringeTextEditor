@@ -19,6 +19,7 @@ Simple text editor on Java
     Paste: Ctrl + V
     Find: Ctrl + F
     Replace: Ctrl + R
+    Find + Replace: Ctrl + F + Ctrl + R
     Timestamp: Ctrl + E
 
 
