@@ -2,17 +2,23 @@
 ---
 
 Simple text editor on Java
+
 *Edit Menu:
+
 ![](img/edit_menu.png)
 * File Menu:
+
 ![](img/file_menu.png)
-*Save
+*Save:
+
 ![](img/save.png)
 *
 ![](img/text.png)
-*Version
+*Version:
+
 ![](img/Version.png)
-*Find
+*Find:
+
 ![](img/Find.png)
 
 Future ideas:
