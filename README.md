@@ -13,6 +13,8 @@ Simple text editor on Java
 
 ![](img/Version.png)
 
+![](img/Find.png)
+
 Future ideas:
 
  * Add syntax highlighter
