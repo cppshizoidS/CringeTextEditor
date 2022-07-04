@@ -45,7 +45,7 @@ Simple text editor on Java
 
 * Find and Replace:
 
-![](img/)
+![](img/FindReplace.png)
 
 Future ideas:
 
