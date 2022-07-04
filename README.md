@@ -30,6 +30,7 @@ Simple text editor on Java
 
 ![](img/file_menu.png)
 * Save:
+
 ![](img/save.png)
 
 * Text Edit:
